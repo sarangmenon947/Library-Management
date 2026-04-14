@@ -24,13 +24,13 @@ A console-based Library Management System written in C. It allows users to add b
 ### Build
 
 ```bash
-gcc -o library library.c
+gcc -o library-management library-management.c
 ```
 
 ### Run
 
 ```bash
-./library
+./library-management
 ```
 
 ---
